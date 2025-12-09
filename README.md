@@ -15,11 +15,14 @@
 
 ## 📱 Screenshots
 <div align="center">
-  ![Login](screenshots/login.png)
-  ![Dashboard](screenshots/dashboard.png) 
-  ![Blog Editor](screenshots/editor.png)
-  ![Swagger](screenshots/swagger.png)
+
+![Login](screenshots/Screenshot%202025-12-08%20205018.png)
+![Dashboard](screenshots/Screenshot%202025-12-08%20205038.png)
+![Blog Editor](screenshots/Screenshot%202025-12-09%20135254.png)
+![Swagger](screenshots/Screenshot%202025-12-09%20135314.png)
+
 </div>
+
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | Database | Tools |
