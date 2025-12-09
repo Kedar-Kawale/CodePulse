@@ -1,0 +1,10 @@
+﻿# Visual Studio / .NET folders
+/.vs/
+/bin/
+/obj/
+*.user
+*.suo
+
+# Node / Angular folders
+/node_modules/
+/UI/codepulseUI/dist
